@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656747107,
-        "narHash": "sha256-ZWa97D73WfbvKxVrVmwkLFJcMQw5RC+EOS8Vg/64/y4=",
+        "lastModified": 1657153291,
+        "narHash": "sha256-zxh40Qrtim5w5G/zYQSTvalSSVd6xgH7G/0HGSAf7Rg=",
         "owner": "nim-nix-pkgs",
         "repo": "slicerator",
-        "rev": "e908f2ede912cb17efc6272e9aa002996c7ec29d",
+        "rev": "bf4a845d0e06ca89f04f8b66d3ddce389cf0c666",
         "type": "github"
       },
       "original": {
