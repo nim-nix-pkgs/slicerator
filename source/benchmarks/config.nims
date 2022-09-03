@@ -1,0 +1,3 @@
+--gc:arc
+--define:danger
+--define:lto
