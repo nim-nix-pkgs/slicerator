@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334804,
-        "narHash": "sha256-uGdcuOcxQSsueFLZi+Uf4kXSbPEf+3ciHZ49GD2E9Zo=",
+        "lastModified": 1668749058,
+        "narHash": "sha256-6RHBVWqBz4q59sxpVJzCup/tHWmcbD4d8d8fROZqzc4=",
         "owner": "nim-nix-pkgs",
         "repo": "slicerator",
-        "rev": "c7d95a7705231376f9543014d700804eca5ad8c7",
+        "rev": "6f278dad0e478cd132e344aad002580931fb6bb2",
         "type": "github"
       },
       "original": {
@@ -237,11 +237,11 @@
     "src-slicerator-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1650593314,
-        "narHash": "sha256-Kx8L+lVEIwkAnMCuebGZXmgbB3YD/C8S/t/l3oq3V1A=",
+        "lastModified": 1668333613,
+        "narHash": "sha256-ECCtpGhasnjOfm/3NLaCSJ3VXT5nQx3xkppZn1aqsOo=",
         "owner": "beef331",
         "repo": "slicerator",
-        "rev": "ccfa3fbf0ff7507ce97d2addf52483cbee14b687",
+        "rev": "0fa7ebe3167ee0489ca0d1fa7a218228232d7880",
         "type": "github"
       },
       "original": {
